@@ -1,0 +1,24 @@
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Projekt-Daten
+passwort.json
+patienten.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Virtual Environment
+venv/
+env/
+ENV/
