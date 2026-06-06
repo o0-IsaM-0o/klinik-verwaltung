@@ -60,12 +60,15 @@ Ein Desktop-Anwendung für die Patientenverwaltung einer Arztpraxis/Klinik.
 3. **Programm ausführen:**
 ```bash
 python klinik.py
-
+```
 📁 Daten
 
 Die Anwendung erstellt automatisch folgende Dateien:
+
 passwort.json - Für das Passwort
+
 patienten.json - Für alle Patientendaten
+
 
 🖥️ Systemanforderungen
 
@@ -73,4 +76,5 @@ Windows / Linux / macOS
 Python 3.6 oder höher
 
 👨‍💻 Entwickler
+
 Designed by Isa Mohsenian
