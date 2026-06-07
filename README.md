@@ -17,14 +17,14 @@ Ein Desktop-Anwendung für die Patientenverwaltung einer Arztpraxis/Klinik.
 ### 🔐 Login Screen
 *Passwortgeschützter Zugang zum System*
 
-![Login Screen](https://github.com/o0-IsaM-0o/klinik-verwaltung/issues/1#issue-4604883021)
+![Login Screen](screenshots/login.PNG)
 
 ---
 
 ### 📋 Hauptfenster
 *Patientenliste mit Suchfunktion*
 
-![Main Window](screenshots/main.png)
+![Main Window](screenshots/main.PNG)
 
 ---
 
