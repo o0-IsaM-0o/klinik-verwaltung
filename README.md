@@ -49,7 +49,7 @@ Ein Desktop-Anwendung für die Patientenverwaltung einer Arztpraxis/Klinik.
 ---
 
 ### ✅ Benachrichtigungen
-*Erfolgs- und Fehlermeldungen im lila Design*
+*Erfolgs- und Fehlermeldungen*
 
 ![Notifications](screenshots/notification.PNG)
 
