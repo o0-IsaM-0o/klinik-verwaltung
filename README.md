@@ -31,27 +31,27 @@ Ein Desktop-Anwendung für die Patientenverwaltung einer Arztpraxis/Klinik.
 ### ✏️ Patient Registration Bild1
 *Eingabeformular für neue Patienten*
 
-![Registration](screenshots/register.png)
+![Registration](screenshots/register.PNG)
 
 ---
 
 ### ✏️ Patient Registration Bild2
 
-![Registration](screenshots/register2.png)
+![Registration](screenshots/register2.PNG)
 
 ---
 
 ### 🔍 Suchfunktion
 *Echtzeit-Suche in Vorname, Nachname und Aktennummer*
 
-![Search](screenshots/search.png)
+![Search](screenshots/search.PNG)
 
 ---
 
 ### ✅ Benachrichtigungen
 *Erfolgs- und Fehlermeldungen im lila Design*
 
-![Notifications](screenshots/notification.png)
+![Notifications](screenshots/notification.PNG)
 
 ## 🚀 Installation
 
